@@ -1,3 +1,4 @@
 # General
 
-Esto es un mensade de prueba para probar las ramas
+Esto es un mensade de prueba
+rama:otra
